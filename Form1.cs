@@ -225,7 +225,7 @@ namespace Repeated_Number
         private void ResetAllButtons()
         {
             int i = 0, j = 0;
-            FillArreyWithNumber();
+           
 
             foreach (Control ctr in pnlButtonNumbers.Controls)
             {
@@ -311,3 +311,4 @@ namespace Repeated_Number
   
     }
 }
+
