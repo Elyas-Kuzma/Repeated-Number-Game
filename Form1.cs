@@ -296,6 +296,7 @@ namespace Repeated_Number
             ResetAllButtons();
             ResetLabels();
 
+            NumberOfRounds = 0;
             GameInfo.WinnerTime = 0;
             GameInfo.LossTime = 0;
             nudGameRound.Value = 0;
@@ -311,4 +312,5 @@ namespace Repeated_Number
   
     }
 }
+
 
