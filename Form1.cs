@@ -37,7 +37,7 @@ namespace Repeated_Number
         Random randomNumber = new Random();
         sbyte Secound = 10;
         sbyte SearchNumber;
-        bool IsCheckedButtonClicked = false;
+        
 
         //Function
 
@@ -312,5 +312,6 @@ namespace Repeated_Number
   
     }
 }
+
 
 
